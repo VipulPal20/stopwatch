@@ -1,2 +1,1 @@
-# PRODIGY_WD_2
-second task of the web development domain.
+This is a web app for a stopwatch made using html css 
